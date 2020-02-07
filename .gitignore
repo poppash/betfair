@@ -31,3 +31,4 @@ nosetests.xml
 .idea
 
 .env
+env/
